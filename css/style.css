@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Niramit');
+
+body {
+    font-family: 'Niramit', sans-serif;
+    background-color: darkcyan;
+    min-height: 100vh;
+    padding: 2em;
+}
+
+h1,
+h2,
+p {
+    color: black !important;
+}
+
+.logo {
+    width: 275px;
+}
+
+.fab,
+.fas {
+
+    font-size: 50px;
+}
+
+hr {
+    width: 400px;
+    margin: auto;
+}
+
+strong {
+    color: black !important;
+}
+
+a {
+    color: #00008b;
+}
+
+code {
+    background: transparent;
+}
+
+.icon {
+    color: black;
+}
+
+.device-icon {
+    font-size: 150px;
+    color: black;
+}
